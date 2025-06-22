@@ -1,0 +1,7 @@
+{
+  "url": "https://syde.fi",
+  "name": "syde",
+  "iconUrl": "https://raw.githubusercontent.com/sydefi/raw-storage/refs/heads/main/syde_logo_new_cl.svg",
+  "termsOfUseUrl": "https://syde.fi",
+  "privacyPolicyUrl": "https://syde.fi" 
+}
