@@ -1,7 +1,7 @@
 {
   "url": "https://syde.fi",
   "name": "syde",
-  "iconUrl": "https://syde.fi/favicon.svg",
+  "iconUrl": "https://syde.fi/favicon.png",
   "termsOfUseUrl": "https://syde.fi",
   "privacyPolicyUrl": "https://syde.fi" 
 }
