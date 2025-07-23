@@ -1,5 +1,5 @@
 {
-  "url": "https://syde.fi",
+  "url": "https://app.syde.fi",
   "name": "syde",
   "iconUrl": "https://syde.fi/favicon.png",
   "termsOfUseUrl": "https://syde.fi",
